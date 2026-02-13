@@ -1,5 +1,6 @@
-# Mac
+# macOS metadata
 .DS_Store
+._*
 
 # Python
 __pycache__/
