@@ -139,6 +139,9 @@ Even small rating gaps (3.7 vs 4.0) significantly affect brand trust and purchas
 
 ## Dashboard Preview
 
+### Datamodelling
+![Datamodelling](images/datamodelling.png)
+
 ### Overview
 ![Overview](images/overview.png)
 
